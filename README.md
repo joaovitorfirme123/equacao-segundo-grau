@@ -1,0 +1,1 @@
+O algoritmo calcula o resultado de uma equação de segundo grau.
